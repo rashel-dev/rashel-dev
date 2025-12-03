@@ -18,7 +18,7 @@
 - 🗄️ Using **Node.js, Express.js, MongoDB** for backend.
 - 🛠️ Learning **React Native**.
 - 💬 Ask me about **Full-Stack (React, Node, Express, MongoDB)**.
-- 📝 I write articles on **[LinkedIn](https://www.linkedin.com/in/mohammad-rashel-2197322b2/)**
+- 📝 I write articles on **[LinkedIn](https://www.linkedin.com/in/mohammad-rashel/)**
 - 📫 Reach me: **[Email](mailto:mrashel.dev@gmail.com)**
 
 <br/>
