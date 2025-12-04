@@ -61,11 +61,6 @@
 
 <br/>
 
-<!--- contributions --->
-## 📈 GitHub Contributions
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=rashel-dev)
-
-<br/>
 
 <!--- contributions --->
 ## 📈 GitHub Contributions
