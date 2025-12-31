@@ -19,7 +19,7 @@
 - 🛠️ Learning **React Native**.
 - 💬 Ask me about **Full-Stack (React, Node, Express, MongoDB)**.
 - 📝 I write articles on **[LinkedIn](https://www.linkedin.com/in/mohammad-rashel/)**
-- 📫 Reach me: **[Email](mailto:mrashel.dev@gmail.com)**
+- 📫 Reach me: **[Email:mohammadrashel002@gmail.com](mailto:mohammadrashel002@gmail.com)**
 
 <br/>
 
