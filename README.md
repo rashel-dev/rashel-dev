@@ -61,11 +61,6 @@
 
 <br/>
 
-
-<!--- contributions --->
-## 📈 GitHub Contributions
-![GitHub Contribution Graph](https://ghchart.rshah.org/rashel-dev)
-
 <!--- pinned repos --->
 ## 📌 Pinned Projects
 
