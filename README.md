@@ -16,10 +16,10 @@
 - 👋 Hi, I’m **[@rashel-dev](https://github.com/rashel-dev)**
 - 🖥️ Working with **React.js** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB** for backend.
-- 🛠️ Learning **React Native**.
+- 🛠️ Learning **Typescript, Redux**.
 - 💬 Ask me about **Full-Stack (React, Node, Express, MongoDB)**.
 - 📝 I write articles on **[LinkedIn](https://www.linkedin.com/in/mohammad-rashel/)**
-- 📫 Reach me: **[Email:mohammadrashel002@gmail.com](mailto:mohammadrashel002@gmail.com)**
+- 📫 Reach me: **[mohammadrashel002@gmail.com](mailto:mohammadrashel002@gmail.com)**
 
 <br/>
 
