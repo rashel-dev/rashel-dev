@@ -13,8 +13,7 @@
 <br/>
 
 <!--- about --->
-- 👋 Hi, I’m **[@rashel-dev](https://github.com/rashel-dev)**
-- 🖥️ Working with **React.js** for frontend development.
+- 🖥️ Working with **React.js, Next.js** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB** for backend.
 - 🛠️ Learning **Typescript, Redux**.
 - 💬 Ask me about **Full-Stack (React, Node, Express, MongoDB)**.
@@ -39,13 +38,13 @@
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-![Languages](https://skillicons.dev/icons?i=html,css,javascript)
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)
 
 ### CSS Frameworks:
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### JavaScript Frameworks:
-![JS Frameworks](https://skillicons.dev/icons?i=react,nodejs,express)
+![JS Frameworks](https://skillicons.dev/icons?i=react,next,nodejs,express)
 
 ### Database:
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
